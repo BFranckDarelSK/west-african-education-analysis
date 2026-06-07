@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun  7 22:57:55 2026
+
+@author: loyea
+"""
+pandas
+matplotlib
+seaborn
