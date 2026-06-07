@@ -55,4 +55,4 @@ open educational datasets for West Africa.
 
 ## Connect
 - LinkedIn : [Bezo Franck Darel Salomon Kienou]
-- Email : [Ton email]
+- Email : franckienou@gmail.com
