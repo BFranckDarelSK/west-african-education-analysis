@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  7 22:54:56 2026
 
-@author: loyea
+@author: kienou
 """
 # West Africa Education Data Analysis 📊
 
