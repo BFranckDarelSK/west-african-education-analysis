@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  7 22:54:56 2026
 
-@author: kienou
+@author: kienoub
 """
 # West Africa Education Data Analysis 📊
 
@@ -15,7 +15,7 @@ from 2018 to 2023.
 ## Author
 **Bezo Franck Darel Salomon Kienou**
 - Applied Mathematics Student — Université Thomas Sankara
-- Country Commercial Director — Schoolap (West Africa)
+- Country Commercial Director — SCHOOLAP BURKINA
 
 ## Motivation
 As Country Commercial Director at Schoolap, 
@@ -55,4 +55,3 @@ open educational datasets for West Africa.
 
 ## Connect
 - LinkedIn : [Bezo Franck Darel Salomon Kienou]
-- Email : franckienou@gmail.com
